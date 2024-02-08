@@ -1,0 +1,22 @@
+
+body {
+	background-image: radial-gradient(circle at top right,#C9FFBF, #FFAFBD);
+
+}
+
+.table-danger {
+	font-family: serif;
+
+}
+.table-success {
+	font-family: serif;
+}
+.table-warning {
+	font-family: serif;
+}
+.table-primary {
+	font-family: serif;
+}
+.table-info {
+	font-family: serif;
+}
